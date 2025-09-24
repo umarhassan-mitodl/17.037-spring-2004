@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ]
+  ],
+  "legacy_uid": "76fa7bcb-33f9-fa64-f026-b4807d9bf310",
+  "instructors": {
+    "content": [
+      "67da2ac7-bc19-9e46-b164-b554a1db7f33"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "77a60503-cc3d-6968-5c7b-0f77b3080943",
+    "website": "17-037-american-political-thought-spring-2004"
+  },
+  "course_title": "American Political Thought",
+  "course_description": "This course surveys American political thought from the colonial era to the present. Required readings are drawn mainly from primary sources, including writings of politicians, activists, and theorists. Topics include the relationship between religion and politics, rights, federalism, national identity, republicanism versus liberalism, the relationship of subordinated groups to mainstream political discourse, and the role of ideas in politics. We will analyze the simultaneous radicalism and weakness of American liberalism, how the revolutionary ideas of freedom and equality run up against persistent patterns of inequality. Graduate students are expected to pursue the subject in greater depth through suggested reading and individual research.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.038",
+  "primary_course_number": "17.037",
+  "course_image_thumbnail": {
+    "content": "624034c0-0c1b-3668-2ff8-578178d2fdc3",
+    "website": "17-037-american-political-thought-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "0c9d793d-9a63-435a-9d9b-19a30010cc55",
+  "site_short_id": "17.037-spring-2004",
+  "site_url_path": "courses/17-037-american-political-thought-spring-2004",
+  "title": "Course Metadata"
+}
