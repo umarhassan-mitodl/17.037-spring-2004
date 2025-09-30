@@ -2,6 +2,8 @@
 content_type: page
 description: ''
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,9 +12,9 @@ uid: 31f7ea58-a825-ab20-2bc3-07b48f510ff7
 ---
 ## Required Texts
 
-Franklin, Benjamin. _The Autobiography of Benjamin Franklin._ Dover. ({{% resource_link "80a03122-7ca6-43e9-98a6-0d6627c4c79e" "Download" %}} a version from Project Gutenberg.)
+Franklin, Benjamin. _The Autobiography of Benjamin Franklin._ Dover. ([Download](http://www.ushistory.org/franklin/autobiography/) a version from Project Gutenberg.)
 
-Paine, Thomas. _Common Sense._ Dover. ({{% resource_link "a42c17a2-e904-440c-a5c3-b28010434ee1" "Download" %}} a version from Project Gutenberg.)
+Paine, Thomas. _Common Sense._ Dover. ([Download](http://www.gutenberg.org/etext/3755) a version from Project Gutenberg.)
 
 Jefferson, Thomas. _The Portable Thomas Jefferson._ Edited by Merrill D. Peterson. New York, NY: Penguin, 1977. ISBN: 9780140150803.
 
@@ -88,7 +90,7 @@ Paine, Thomas. "Common Sense." 1776.
 
 Jefferson, Thomas. "Declaration of Independence._" In Portable Thomas Jefferson_, 1776, pp. 235-41.
 
-Abigail, and John Adams. "Remember the Ladies." 1776. (View the {{% resource_link "82e0ec1c-0684-4f2f-92dd-bb891a46231c" "text and original manuscript of the letter" %}} from the Massachusetts Historical Society.)
+Abigail, and John Adams. "Remember the Ladies." 1776. (View the [text and original manuscript of the letter](http://www.masshist.org/digitaladams/archive/doc?id=L17760331aa) from the Massachusetts Historical Society.)
 
 Douglass, Frederick. "What to the Slave is the Fourth of July?" 1852.
 
@@ -108,9 +110,9 @@ Debating the Constitution
 {{< tdclose >}}{{< tdopen >}}
 
 _Required Readings_     
-Publius. _The Federalist._ Pp. 1, 2, 6, 8-11, 14, 35, 37-39, 46-52, 54, 62, 63, 70, 71, 78 and 81 (1787-88). ({{% resource_link "545dd4f9-eaab-4974-8011-56a270dbe728" "Download" %}} from Project Gutenberg.)
+Publius. _The Federalist._ Pp. 1, 2, 6, 8-11, 14, 35, 37-39, 46-52, 54, 62, 63, 70, 71, 78 and 81 (1787-88). ([Download](http://www.gutenberg.org/ebooks/18) from Project Gutenberg.)
 
-Dissent of the Minority of the Pennsylvania Convention. (Dec 18, 1787) (available online at {{% resource_link "2d27ad2d-532d-4c79-b378-686d5eb205e1" "Anti-Federalist Papers" %}}).
+Dissent of the Minority of the Pennsylvania Convention. (Dec 18, 1787) (available online at [Anti-Federalist Papers](https://www.nationallibertyalliance.org/anti-federalist-papers)).
 
 Diamond, Martin. "Democracy and the Federalist: A Reconsideration of the Framers' Intent." _American Political Science Review_ 53, 1 (March 1959): 52-68.
 
@@ -141,9 +143,9 @@ Jefferson, Thomas. _Notes on the State of Virginia._ 1787, pp. 92-103, 122-128, 
 
 ———. "Letter to Benjamin Austin." In _Portable Thomas Jefferson_. 1816, pp. 547-550.
 
-{{% resource_link "c0071abc-9304-4223-8a38-c905e5f3e76d" "Alexander Hamilton on the Web" %}} (see this site for links to many of the writings noted above.) 
+[Alexander Hamilton on the Web](https://guides.loc.gov/alexander-hamilton/external-websites) (see this site for links to many of the writings noted above.) 
 
-Madison, James. "Property." pp. 243-46. (View text at {{% resource_link "4033c7f7-4015-46bd-ad70-ab2770bba2ee" "The Founders' Constitution" %}}.)
+Madison, James. "Property." pp. 243-46. (View text at [The Founders' Constitution](http://press-pubs.uchicago.edu/founders/documents/v1ch16s23.html).)
 
 _Suggested Readings_     
 McCoy, Drew. _The Elusive Republic: Political Economy in Jeffersonian America._ Chapel Hill, NY: University of North Carolina, 1996. ISBN: 9780807846162.
@@ -159,22 +161,22 @@ Individualism
 {{< tdclose >}}{{< tdopen >}}
 
 _Required Readings_     
-Emerson, Ralph Waldo. Chapter 1 in _Nature_. 1836. ({{% resource_link "605c1c29-1c6a-4696-92ee-8ff3d9527c05" "Download" %}} from Project Gutenberg.)
+Emerson, Ralph Waldo. Chapter 1 in _Nature_. 1836. ([Download](http://www.gutenberg.org/ebooks/29433) from Project Gutenberg.)
 
-———. "The American Scholar." In _Portable Emerson_. 1837. {{% resource_link "95bcbdeb-3d5b-4c08-96d0-9bdae8bfc69d" "(View text" %}} on The Works of Ralph Waldo Emerson.)
+———. "The American Scholar." In _Portable Emerson_. 1837. [(View text](https://www.amazon.com/Portable-Emerson-Viking-Library/dp/0140150943) on The Works of Ralph Waldo Emerson.)
 
-———. {{% resource_link "2c836fb5-dea3-4af5-8ee2-a094a43e3151" "\"Self-Reliance.\" (PDF)" %}} In _Portable Emerson._ 1841.
+———. ["Self-Reliance." (PDF)](http://www.math.dartmouth.edu/~doyle/docs/self/self.pdf) In _Portable Emerson._ 1841.
 
-———. "Politics." In _Portable Emerson._ 1844. ({{% resource_link "af99d6b9-91dc-4afb-8dfb-93cd22b17d62" "Download" %}} from Project Gutenberg.)
+———. "Politics." In _Portable Emerson._ 1844. ([Download](http://www.gutenberg.net/etext/2945) from Project Gutenberg.)
 
 ———. "Napoleon; Or, the Man of the World." In _Portable Emerson_. 1850.      
 ———. "The Fugitive Slave Law." In _Portable Emerson._ 1854.
 
-Thoreau, Henry David. "Civil Disobedience," "Economy," "Where I Lived, and What I Lived For," "Solitude," and "Higher Laws." In _Walden._ 1845. ({{% resource_link "eba5d3f8-f3ee-40be-a7e1-08cabb073d4f" "View text and additional writings" %}} of Thoreau on The Thoreau Reader.)
+Thoreau, Henry David. "Civil Disobedience," "Economy," "Where I Lived, and What I Lived For," "Solitude," and "Higher Laws." In _Walden._ 1845. ([View text and additional writings](https://commons.digitalthoreau.org/) of Thoreau on The Thoreau Reader.)
 
 "Conclusion." In _Walden_. 1845.
 
-Stanton, Elizabeth Cady. "The Solitude of Self." 1892. ({{% resource_link "7742bdbd-6559-4c2f-8120-3275d7cc3447" "View text" %}} on PBS site: see Historic Documents section.)
+Stanton, Elizabeth Cady. "The Solitude of Self." 1892. ([View text](http://www.pbs.org/stantonanthony/resources/) on PBS site: see Historic Documents section.)
 
 _Suggested Readings_     
 Kateb, George. _The Inner Ocean: Individualism and Democratic Culture._ Ithaca, NY: Cornell University Press, 1994. ISBN: 9780801480140.
@@ -190,15 +192,15 @@ Mid-Term Paper Due in Class
 {{< tdclose >}}{{< tdopen >}}
 
 _Required Readings_     
-Calhoun, John C. _Disquisition on Government._ Excerpts, 1853. ({{% resource_link "6c83064c-c361-442f-9682-a1b0a97c456c" "Download" %}} from The Constitution Society.)
+Calhoun, John C. _Disquisition on Government._ Excerpts, 1853. ([Download](http://www.constitution.org/jcc/jcc.htm) from The Constitution Society.)
 
 Fitzhugh, George. _Sociology for the South._ 1854, pp. 268-76.
 
-Nott, Josiah C., and George R. Gliddon. eds. _Types of Mankind._ 1855, pp. 49-87. ({{% resource_link "9bf4f185-f1a5-414f-ad82-b31d12899608" "View text" %}} on the Library of Congress.)
+Nott, Josiah C., and George R. Gliddon. eds. _Types of Mankind._ 1855, pp. 49-87. ([View text](http://lcweb2.loc.gov/cgi-bin/query/r?ammem/ncps:@field(DOCID+@lit(ABQ7578-0095-6))::) on the Library of Congress.)
 
 Morse, Samuel F. B. "Imminent Dangers to Free Institutions." pp. ii-29.
 
-Grimke, Angelina E. _Letters to Catherine E. Beecher._ 1838, pp. 103-121. ({{% resource_link "769af860-857c-4e12-b87c-e7c6b12d6c9e" "View text" %}} on Sunshine for Women.)
+Grimke, Angelina E. _Letters to Catherine E. Beecher._ 1838, pp. 103-121. ([View text](http://books.google.com/books?id=KSWzlG7UHnsC&pg=PAfrontcover) on Sunshine for Women.)
 
 Beecher, Catherine B. _True Remedy for the Wrongs of Women._ 1851, pp. 24-60 and 224-32.
 
@@ -223,15 +225,15 @@ Lincoln, Abraham. _Young Men's Lyceum Address._ 1838.
 ———."Second Inaugural Address." In _Lincoln: Selected Speeches and Writings._ 1865
 
 ———. "Speech on Reconstruction." 1865. In _Lincoln: Selected Speeches and Writings._     
-{{% resource_link "d234f810-a7b7-4e76-bb3b-8f83a26d078e" "Download" %}} the complete writings of Abraham Lincoln from Project Gutenberg.
+[Download](http://www.gutenberg.org/etext/3253) the complete writings of Abraham Lincoln from Project Gutenberg.
 
 Foner, Eric. _Reconstruction: America's Unfinished Revolution_ _1863-1877._ New York, NY: Perennial, 2002, pp. 18-34, 142-75, and 228-80. ISBN: 9780060937164.
 
 Stanton, Elizabeth Cady. "Gerritt Smith on Petitions." 1869.
 
-_Myra Bradwell v. State of Illinois_, 83 U.S. 130 (1872): Excerpt. ({{% resource_link "4a9c6388-fb6a-4221-b426-bcaa15ab7871" "View full text" %}} of decision on FindLaw.)
+_Myra Bradwell v. State of Illinois_, 83 U.S. 130 (1872): Excerpt. ([View full text](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=83&invol=130) of decision on FindLaw.)
 
-_U.S. v. Cruikshank_, 92 U.S. 542 (1876). ({{% resource_link "34516b67-3972-40f3-8e84-f54ac37a5596" "View full text" %}} of decision on FindLaw.)
+_U.S. v. Cruikshank_, 92 U.S. 542 (1876). ([View full text](http://laws.findlaw.com/us/92/542.html) of decision on FindLaw.)
 
 _Suggested Readings_     
 Hofstadter. _The American Political Tradition._ pp. 118-74.
@@ -281,16 +283,16 @@ The Politics of Inclusion and the Politics of Difference
 {{< tdclose >}}{{< tdopen >}}
 
 _Required Readings_     
-Kennedy, John F. "Inaugural Address." 1961. ({{< anchor "content" >}}{{< /anchor >}}{{% resource_link "4d79bdeb-2651-4920-b10c-a0afb45159f4" "Inaugural Address President John F. Kennedy" %}})
+Kennedy, John F. "Inaugural Address." 1961. ({{< anchor "content" >}}{{< /anchor >}}[Inaugural Address President John F. Kennedy](http://www.americanrhetoric.com/speeches/jfkinaugural.htm))
 
 King, Martin Luther Jr. "Letter from a Birmingham Jail." 1963.
 
 X, Malcolm. "The Ballot or the Bullet." 1965.
 
-Goldwater, Barry. "Acceptance Speech." 1964. ({{% resource_link "52822782-45fc-49bc-b832-c6879a7f94c7" "Goldwater's 1964 Acceptance Speech" %}})
+Goldwater, Barry. "Acceptance Speech." 1964. ([Goldwater's 1964 Acceptance Speech](http://www.washingtonpost.com/wp-srv/politics/daily/may98/goldwaterspeech.htm))
 
-Johnson, Lyndon. "Commencement Address at Howard University: 'To Fulfill These Rights'." 1965. ({{% resource_link "6cff6b66-6fcf-4be9-ac58-c6852d4fa76e" "Commencement Address at Howard University:\"To Fulfill These Rights\"" %}}) and      
-"State of the Union Address." (Aka 'War on Poverty' speech.) 1964. ({{% resource_link "891b0d93-217f-4795-ab33-6a8c364e130a" "Annual Message to the Congress on the state of the Union" %}}.)
+Johnson, Lyndon. "Commencement Address at Howard University: 'To Fulfill These Rights'." 1965. ([Commencement Address at Howard University:"To Fulfill These Rights"](https://online.hillsdale.edu/document.doc?id=286)) and      
+"State of the Union Address." (Aka 'War on Poverty' speech.) 1964. ([Annual Message to the Congress on the state of the Union](http://www.lbjlibrary.org/press/civil-rights-tax-cuts-and-the-war-on-poverty).)
 
 N.O.W. "Bill of Rights." 1967.
 
@@ -309,7 +311,7 @@ Friedman, Milton. _Capitalism and Freedom._ 1962, Introduction, chapters 1, 2,
 
 Fukuyama, Francis. "The End of History?" In _The National Interest._ Summer (1989): 3-18.
 
-———. "Statement of Principles." In _Project for the New American Century_. June 3, 1997. ({{% resource_link "1f278cad-ad26-45b5-8569-1abf98fe7512" "Project for the New American Century" %}})
+———. "Statement of Principles." In _Project for the New American Century_. June 3, 1997. ([Project for the New American Century](https://www.rrojasdatabank.info/pfpc/PNAC---statement%20of%20principles.pdf))
 
 Gholz, Eugene, Daryl G. Press, and Harvey M. Sapolsky. "Come Home, America: A Strategy of Restraint in the Face of Temptation." In _International Security_ 21, 4 (Spring 1997): 5-17.
 

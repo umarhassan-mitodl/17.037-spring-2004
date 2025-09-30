@@ -4,6 +4,8 @@ description: ''
 file: /courses/17-037-american-political-thought-spring-2004/beea85f7cf9ff3b4a315bdb4c34f48d8_lecture5_1.pdf
 file_size: 228889
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
