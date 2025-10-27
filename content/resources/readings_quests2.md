@@ -4,8 +4,6 @@ description: ''
 file: /courses/17-037-american-political-thought-spring-2004/330cbdf767af0886ab71f6d3481f0d6c_readings_quests2.pdf
 file_size: 11167
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
